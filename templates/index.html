@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detect</title>
+</head>
+<body>
+    <form method="POST">
+        {% csrf_token %}
+        <input type="text" placeholder="Enter the URL of the image" name="url">
+    </form>
+    <img src={{image}} alt="">
+    <table border="1">
+        <tr>
+            <th>name</th>
+            {% for data in name %}
+            <td>{{data}}</td>
+            {% endfor %}
+        </tr>
+        <tr>
+            <th>xmin</th>
+            {% for data in xmin %}
+            <td>{{data}}</td>
+            {% endfor %}
+        </tr>
+        <tr>
+            <th>ymin</th>
+            {% for data in ymin %}
+            <td>{{data}}</td>
+            {% endfor %}
+        </tr>
+        <tr>
+            <th>xmax</th>
+            {% for data in xmax %}
+            <td>{{data}}</td>
+            {% endfor %}
+        </tr>
+        <tr>
+            <th>ymax</th>
+            {% for data in ymax %}
+            <td>{{data}}</td>
+            {% endfor %}
+        </tr>
+        <tr>
+            <th>confidence</th>
+            {% for data in confidence %}
+            <td>{{data}}%</td>
+            {% endfor %}
+        </tr>
+       
+    </table>
+    <style>
+        img{
+            width:400px;
+        }
+    </style>
+</body>
+</html>
