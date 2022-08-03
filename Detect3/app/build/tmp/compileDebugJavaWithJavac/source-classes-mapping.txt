@@ -1,0 +1,43 @@
+com/example/detect/Analysis.java
+ com.example.detect.Analysis
+com/example/detect/databinding/ActivityCameraBinding.java
+ com.example.detect.databinding.ActivityCameraBinding
+com/example/detect/VolleyMultipartRequest.java
+ com.example.detect.VolleyMultipartRequest
+ com.example.detect.VolleyMultipartRequest$DataPart
+com/example/detect/MainActivity.java
+ com.example.detect.MainActivity
+com/example/detect/Loading.java
+ com.example.detect.Loading
+ com.example.detect.Loading$1
+com/example/detect/databinding/ActivityLoadingBinding.java
+ com.example.detect.databinding.ActivityLoadingBinding
+com/example/detect/DetectActivity.java
+ com.example.detect.DetectActivity
+ com.example.detect.DetectActivity$1
+ com.example.detect.DetectActivity$2
+com/example/detect/databinding/ActivityDetectBinding.java
+ com.example.detect.databinding.ActivityDetectBinding
+com/example/detect/databinding/ActivityImageAnalyzeBinding.java
+ com.example.detect.databinding.ActivityImageAnalyzeBinding
+com/example/detect/DataBindingTriggerClass.java
+ com.example.detect.DataBindingTriggerClass
+com/example/detect/BuildConfig.java
+ com.example.detect.BuildConfig
+com/example/detect/databinding/ActivityMainBinding.java
+ com.example.detect.databinding.ActivityMainBinding
+com/example/detect/databinding/ActivityAnalysisBinding.java
+ com.example.detect.databinding.ActivityAnalysisBinding
+com/example/detect/databinding/ActivityNavigateBinding.java
+ com.example.detect.databinding.ActivityNavigateBinding
+com/example/detect/Navigate.java
+ com.example.detect.Navigate
+com/example/detect/ImageAnalyze.java
+ com.example.detect.ImageAnalyze
+ com.example.detect.ImageAnalyze$1
+com/example/detect/MyRunnable.java
+ com.example.detect.MyRunnable
+com/example/detect/CameraActivity.java
+ com.example.detect.CameraActivity
+ com.example.detect.CameraActivity$1
+ com.example.detect.CameraActivity$1$1

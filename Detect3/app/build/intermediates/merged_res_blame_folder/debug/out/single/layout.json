@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_loading.xml",
+        "source": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_navigate.xml",
+        "source": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\src\\main\\res\\layout\\activity_navigate.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_image_analyze.xml",
+        "source": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\src\\main\\res\\layout\\activity_image_analyze.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_analysis.xml",
+        "source": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\src\\main\\res\\layout\\activity_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_detect.xml",
+        "source": "C:\\Users\\vishu\\AndroidStudioProjects\\Detect3\\app\\src\\main\\res\\layout\\activity_detect.xml"
+    }
+]
